@@ -23,17 +23,17 @@ Ejemplo:
 
 La comunicación debe estar apuntada a un público técnico pero sin conocimiento del tema particular, como por ejemplo, sus compañeros de clase etc.
 
-##Se evaluarán los siguientes aspectos:
+## Se evaluarán los siguientes aspectos:
 
 - El informe debe contener un mensaje claro y presentado de forma concisa.
 - Los gráficos deben aplicar los conceptos de percepción visual vistos en clase.
 - Se debe describir o estimar la significancia estadística de su trabajo.
 
-##Entrega
+## Entrega
 
 - Definan un repositorio en el cual se encuentre el notebook con el que hayan procesado los datos y manden el link al mismo. Para generar el informe y la presentación (sugerimos Google Drive) y pasen el link a dónde podamos verlos.
 
-##Presentación
+## Presentación
 
 - A definirlo entre todos. Estaría bueno tomarnos 30’ minutos, para que puedan exponer los resultados y charlamos un rato sobre ellos. Podemos ver de hacerlo por video llamada o presencial como la primer reunión.
 
