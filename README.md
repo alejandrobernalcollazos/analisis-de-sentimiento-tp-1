@@ -37,3 +37,6 @@ La comunicación debe estar apuntada a un público técnico pero sin conocimient
 
 - A definirlo entre todos. Estaría bueno tomarnos 30’ minutos, para que puedan exponer los resultados y charlamos un rato sobre ellos. Podemos ver de hacerlo por video llamada o presencial como la primer reunión.
 
+## Link
+
+- [Presentación](https://docs.google.com/presentation/d/186sn-p9yqiaRcpSIFJzCVnW95iy8sUpnP-z9yZA2LYk/edit?usp=sharing) 
