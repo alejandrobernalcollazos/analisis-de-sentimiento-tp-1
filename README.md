@@ -15,7 +15,7 @@ Ejemplo:
 #### 1 Analizar la consistencia/inconsistencia de los datos.
 ##### 1.1 En caso de presentarse faltantes, que decisión tomaría para su tratamiento. ¿Porqué?
 #### 2 Ratings
-##### 2.1 Obtengan información relacionada a los  y Graficarlos de manera correcta.
+##### 2.1 Obtengan información relacionada a los ratings  y Graficarlos de manera correcta.
 ##### 2.2 ¿Tiene una distribución conocida? ¿Cuál?
 ##### 2.3 ¿Qué información se puede encontrar entre las distintas clases de rating?
 ##### 2.4 ¿Qué información se puede extraer en cuanto al comportamiento de los usuarios? ¿Existe algún patrón?
