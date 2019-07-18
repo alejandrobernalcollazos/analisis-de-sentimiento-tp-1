@@ -10,16 +10,19 @@ Ejemplo:
 
 - Identificar aquellas variables más correlacionadas y posibles interpretaciones.
 - Distribución de los ratings con respecto a la clase target.
-- Cuestiones interesante que deberían ser exploradas y respondidas:
-- Analizar la consistencia/inconsistencia de los datos.
-- En caso de presentarse faltantes, que decisión tomaría para su tratamiento. ¿Porqué?
-- Obtengan información relacionada a los ratings y Graficarlos de manera correcta.
-- ¿Tiene una distribución conocida? ¿Cuál?
-- ¿Qué información se puede encontrar entre las distintas clases de rating?
-- ¿Qué información se puede extraer en cuanto al comportamiento de los usuarios? ¿Existe algún patrón?
-- ¿Existe alguna relación entre el valor de rating y la clase target?
-- Este dataset no presenta ningún outlier. ¿Cómo justificaría dicha afirmación?
-- Suponiendo que existen outliers, que significa.
+
+## Cuestiones interesante que deberían ser exploradas y respondidas
+#### 1 Analizar la consistencia/inconsistencia de los datos.
+##### 1.1 En caso de presentarse faltantes, que decisión tomaría para su tratamiento. ¿Porqué?
+#### 2 Ratings
+##### 2.1 Obtengan información relacionada a los  y Graficarlos de manera correcta.
+##### 2.2 ¿Tiene una distribución conocida? ¿Cuál?
+##### 2.3 ¿Qué información se puede encontrar entre las distintas clases de rating?
+##### 2.4 ¿Qué información se puede extraer en cuanto al comportamiento de los usuarios? ¿Existe algún patrón?
+##### 2.5 ¿Existe alguna relación entre el valor de rating y la clase target?
+#### 3 Este dataset no presenta ningún outlier. 
+##### 3.1 ¿Cómo justificaría dicha afirmación?
+##### 3.2 Suponiendo que existen outliers, que significa.
 
 La comunicación debe estar apuntada a un público técnico pero sin conocimiento del tema particular, como por ejemplo, sus compañeros de clase etc.
 
